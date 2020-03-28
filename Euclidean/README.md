@@ -1,4 +1,4 @@
-# If you type two numbers, Tell the GCD using the Euclidean Algorithm!
+# If you type two numbers, Tell you the GCD using the Euclidean Algorithm!
 
 USAGE :
 

@@ -4,4 +4,5 @@
 - 함수 실행 시간 측정
 - Time Sleep
 
+USAGE:
 	prompt> go run $(eachCodeName).go	

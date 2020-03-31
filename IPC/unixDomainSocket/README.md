@@ -1,4 +1,4 @@
-## Client로 서버에게 메시지를 전달해보자
+## Client로 Server에게 메시지를 전달해보자
 
 USAGE :
 

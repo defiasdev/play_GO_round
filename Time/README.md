@@ -3,4 +3,5 @@
 - TimeStamp 출력 
 - 함수 실행 시간 측정
 - Time Sleep
-	
+
+	prompt> go run $(eachCodeName).go	

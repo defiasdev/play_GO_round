@@ -5,4 +5,5 @@
 - Time Sleep
 
 USAGE:
-	prompt> go run $(eachCodeName).go	
+
+    prompt> go run $(eachCodeName).go	

@@ -3,5 +3,5 @@
 
 for Using this project :
 
-	prompt>> git clone https://github.com/Leeminish/play_GO_round
+	prompt>> git clone https://github.com/jwleedef/play_GO_round
 
